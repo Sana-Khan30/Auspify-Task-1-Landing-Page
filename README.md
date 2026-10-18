@@ -1,5 +1,7 @@
 # Task 1: Responsive Landing Page — Auspify Technologies Internship
 
+🌐 **Live Demo:** [https://sana-khan30.github.io/Auspify-Task-1-Landing-Page/](https://sana-khan30.github.io/Auspify-Task-1-Landing-Page/)
+
 A modern, fully responsive landing page (**NovaFlow**) built using **HTML5**, **CSS3**, and **Vanilla JavaScript** as part of the **Auspify Technologies Internship**.
 
 ## 🚀 Key Features
